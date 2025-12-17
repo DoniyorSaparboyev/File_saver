@@ -6,6 +6,7 @@ function App() {
     <main className="h-screen flex gap-8">
       <Sidebar />
       <NewProject />
+      <NewProject />
     </main>
   );
 }
